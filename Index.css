@@ -1,0 +1,8 @@
+body{
+        background-image: url('http://i.imgur.com/KOXBIN.gif');
+        background-size: cover;
+        
+        height: 100vh;
+        padding:0;
+        margin:0;
+    }
